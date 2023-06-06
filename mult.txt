@@ -1,0 +1,7 @@
+mult of 2 no
+///////////////////////////////////
+print("numbers that multiplys each other")
+num1 = float(input("enter fisrt no: "))
+num2 = float(input("enter second no:"))
+product = num1 * num2
+print("product is ",product)
